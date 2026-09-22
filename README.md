@@ -20,6 +20,14 @@
 | V6.0 | 2026/09/13 | 小蔡  | 初稿 |
 
 
+# 本地文创市集摊位管理系统
+
+> 项目分为**后端仓库**与**前端仓库**两部分开发
+- 后端仓库（当前仓库）：SpringBoot + MyBatis-Plus
+- <a href="https://github.com/Xiaocaidada/-PRD-front" target="_blank">👉 前端仓库 Vue3 + Vite + Element Plus</a>
+
+
+
 ### 案例展示
 > 目标上线版本：V6.0
 > 本期开发范围：摊主报名、摊位分配、市集订单管理、后台客流统计、活动发布
